@@ -1,14 +1,11 @@
-## About me
-Hello everyone! My name is Eugene 👋  
-I will try to publish some my idea and my old projects which maybe help someone. 
+### Hi there 👋, my name is Eugene  
 
-### Hi there 👋, my name is Eugene
-#### About me
-![About me](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+#### About me  
+I work in the field of information security. I will try to publish some my idea and my old projects which maybe help someone  
 
-I will try to publish some my idea and my old projects which maybe help someone
+## Skills  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
-Skills: Powershell / Bash / Python
 
 
 
