@@ -1,6 +1,21 @@
 ## About me
 Hello everyone! My name is Eugene 👋  
-Here you can read some short info about me:
+I will try to publish some my idea and my old projects which maybe help someone. 
+
+### Hi there 👋, my name is Eugene
+#### About me
+![About me](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I will try to publish some my idea and my old projects which maybe help someone
+
+Skills: Powershell / Bash / Python
+
+
+
+
+
+
+
 
 <!--
 **evk1id/evk1id** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
