@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Eugene  
+### Hello everyone 👋, my name is Eugene  
 
 #### About me  
 I work in the field of information security. I will try to publish some my idea and my old projects which maybe help someone  
