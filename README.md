@@ -1,4 +1,4 @@
-## 
+## About me
 Hello everyone! My name is Eugene 👋  
 Here you can read some short info about me:
 
