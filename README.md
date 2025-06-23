@@ -8,9 +8,8 @@ I work in the field of information security. I will try to publish some my idea 
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white)  
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evk1id&exclude=html,css,scss,less&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evk1id&layout=compact)
 
 
 
